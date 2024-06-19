@@ -25,7 +25,11 @@ CodeNamesIA is a project aimed at mimicking human-like gameplay in Codenames. Th
 
 The agent uses the GloVe (Global Vectors for Word Representation) model to convert words into 300-dimensional vectors. It then selects words that are most likely to give the highest score based on these vectors. As the Spy also uses the same GloVe model, it rarely makes mistakes, making it challenging but not impossible to win against the agent.
 
-![CodeNamesIA Demo](https://github.com/PinyaColada/CodeNamesIA/blob/master/demo/CodeNamesIA.gif)
+<div align="center">
+  ![CodeNamesIA Demo](https://github.com/PinyaColada/CodeNamesIA/blob/master/demo/CodeNamesIA.gif)
+  <p>Display of the agent playing both sides</p>
+</div>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
